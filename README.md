@@ -26,8 +26,8 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 Here are a few projects I've been working on:
 
-- [Alchemy Audio Converter]([https://github.com/vvulfmann/project1](https://github.com/vvulfmann/alchemy-audio-converter)): A simple audio file format converter utility.
-- [Alchemy Markdown Converter]([https://github.com/vvulfmann/project2](https://github.com/vvulfmann/ddb-alchemy-markdown-converter)): Cleans up and reformats markdown content.
+- [Alchemy Audio Converter](https://github.com/vvulfmann/alchemy-audio-converter): A simple audio file format converter utility.
+- [Alchemy Markdown Converter](https://github.com/vvulfmann/ddb-alchemy-markdown-converter): Cleans up and reformats markdown content.
 
 ## Get in Touch
 
