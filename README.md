@@ -4,10 +4,9 @@
 
 I'm a passionate software developer with a keen interest in open-source projects, cloud computing, and machine learning. I love to explore new technologies and apply them to solve real-world problems.
 
-- 🔭 I’m currently working on various exciting projects in the realm of AI and cloud infrastructure.
-- 🌱 I’m currently learning advanced machine learning techniques and cloud-native architectures.
-- 👯 I’m looking to collaborate on open-source projects that have a meaningful impact.
-- 💬 Ask me about anything related to Python, JavaScript, and cloud technologies.
+- 🔭 I’m currently working for a legal tech startup called DepoDirect.
+- 🌱 My main focus is platform operations on Google Cloud Platform.
+- 💬 Ask me about anything related to GCP, Terraform, Node.js, or Rails.
 - 📫 How to reach me: [Email](mailto:joshua.grosser@gmail.com)
 - ⚡ Fun fact: I'm a mountain biker and TTRPG game master.
 
