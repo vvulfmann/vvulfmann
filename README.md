@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a passionate software developer with a keen interest in open-source projects, cloud computing, and machine learning. I love to explore new technologies and apply them to solve real-world problems.
+20-year tech industry vet with extensive cloud architecture experience.
 
-- 🔭 I’m currently working for a legal tech startup called DepoDirect.
+- 🔭 I’m currently working for a legal tech startup called DepoDirect. We make virtual depositions easy!
 - 🌱 My main focus is platform operations on Google Cloud Platform.
 - 💬 Ask me about anything related to GCP, Terraform, Node.js, or Rails.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshuamgrosser)
