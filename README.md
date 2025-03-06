@@ -7,7 +7,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 🔭 I’m currently working for a legal tech startup called DepoDirect.
 - 🌱 My main focus is platform operations on Google Cloud Platform.
 - 💬 Ask me about anything related to GCP, Terraform, Node.js, or Rails.
-- 📫 How to reach me: [Email](mailto:joshua.grosser@gmail.com)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshuamgrosser)
 - ⚡ Fun fact: I'm a mountain biker and TTRPG game master.
 
 ## Skills
