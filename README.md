@@ -17,10 +17,6 @@ I'm a passionate software developer with a keen interest in open-source projects
 - **Tools & Platforms**: GCP
 - **Databases**: PostgreSQL, Firestore, MongoDB
 
-## GitHub Stats
-
-![Victor's GitHub stats](https://github-readme-stats.vercel.app/api?username=vvulfmann&show_icons=true&theme=radical)
-
 ## Projects
 
 Here are a few projects I've been working on:
