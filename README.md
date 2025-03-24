@@ -8,7 +8,7 @@
 - 🌱 My main focus is platform operations on Google Cloud Platform.
 - 💬 Ask me about anything related to GCP, Terraform, Node.js, or Rails.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshuamgrosser)
-- ⚡ Fun fact: I'm a mountain biker and TTRPG game master.
+- ⚡ Fun fact: I'm a guitarist, mountain biker, and TTRPG game master.
 
 ## Skills
 
