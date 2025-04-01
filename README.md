@@ -24,8 +24,3 @@ Here are a few projects I've been working on:
 - [Alchemy Audio Converter](https://github.com/vvulfmann/alchemy-audio-converter): A simple audio file format converter utility.
 - [Alchemy Markdown Converter](https://github.com/vvulfmann/ddb-alchemy-markdown-converter): Cleans up and reformats markdown content.
 
-## Get in Touch
-
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/vvulfmann).
-
-Thank you for visiting my profile! Have a great day! 😊
