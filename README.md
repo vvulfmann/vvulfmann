@@ -2,7 +2,7 @@
 
 ## About Me
 
-20-year tech industry vet with extensive cloud architecture experience.
+20-year software industry veteran with extensive cloud architecture experience.
 
 - 🔭 I’m currently working for a legal tech startup called DepoDirect. We make virtual depositions easy!
 - 🌱 My main focus is platform operations on Google Cloud Platform.
