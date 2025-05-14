@@ -14,7 +14,7 @@
 
 - **Languages**: Typescript, Javascript, Ruby, HCL
 - **Frameworks**: Node.js, Ruby on Rails
-- **Tools & Platforms**: GCP
+- **Tools & Platforms**: Google Cloud Platform (GCP), Terraform
 - **Databases**: PostgreSQL, Firestore, MongoDB
 
 ## Projects
