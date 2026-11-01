@@ -1,5 +1,3 @@
-# Hi there, I'm Josh! 👋
-
 ## About Me
 
 20-year software industry veteran with extensive cloud architecture experience.
