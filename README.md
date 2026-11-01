@@ -6,7 +6,6 @@
 
 - 🔭 I am currently building an app called [Familiar GM Assistant](https://www.familiargmassistant.com/) for TTRPG game masters.
 - 💬 Ask me about distributed software architecture, Google Cloud Platform, Terraform, Node.js, and Rails.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/joshuamgrosser)
 - ⚡ Fun fact: I'm a [professional TTRPG game master](https://startplaying.games/gm/vvulfmann) who runs games in Pathfinder 2e, D&D 5e, and other systems!
 
 ## Skills
