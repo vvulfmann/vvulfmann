@@ -2,9 +2,9 @@
 
 20-year software industry veteran with extensive cloud architecture experience.
 
-- 🔭 I am currently building an app called [Familiar GM Assistant](https://www.familiargmassistant.com/) for TTRPG game masters.
+- 🔭 I am currently building an app called **Familiar: GM Assistant** for TTRPG game masters.
 - 💬 Ask me about distributed software architecture, Google Cloud Platform, Terraform, Node.js, and Rails.
-- ⚡ Fun fact: I'm a [professional TTRPG game master](https://startplaying.games/gm/vvulfmann) who runs games in Pathfinder 2e, D&D 5e, and other systems!
+- ⚡ Fun fact: I'm a [professional TTRPG game master](https://www.vvulfmann.com) who runs games in Pathfinder 2e, D&D 5e, and other systems!
 
 ## Skills
 
